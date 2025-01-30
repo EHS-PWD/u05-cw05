@@ -50,7 +50,7 @@ Create a profile card using HTML & CSS that includes the following:
 
    - create a new rule set called `h2`
    - Increases font size tto 24px
-   - Adds space around by 10px
+   - Adds padding around by 10px
 
    - create another rule set called `h3`
    - Sets a smaller font size to 18px
