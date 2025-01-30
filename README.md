@@ -63,13 +63,16 @@ Create a profile card using HTML & CSS that includes the following:
    - Adds padding inside the paragraph by 10px
    - Increases the line height to 1.5
 
-
-7. **Test Your Changes**
-
+7. **Add a Hover Effect (Optional Challenge)**
+   - create a new rule set called `.profile-card:hover`
+   - Changes background when hovered to #e0e0e0
+   - Change the border color to #4eff00
+   
+8. **Test Your Changes**
    - Open both `profile.html` in Google Chrome to verify the updated text formatting and organization.
    - Ensure all sections are styled consistently.
    - Use the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) to ensure your CSS is valid.
 
-7. **Submit Your Work**
+9. **Submit Your Work**
    - Once you've confirmed that styling looks good, submit the following:
    - Submit your `profile.html` and `profile-style.css` file inside of Google Classroom.
